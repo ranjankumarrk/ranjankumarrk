@@ -4,8 +4,11 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:238636&height=180&section=header&text=Ranjan%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20Software%20Engineer%20-%20Node.js%20-%20Golang%20-%20AWS&descAlignY=58&descSize=16" alt="Ranjan Kumar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:238636&height=180&section=header&text=Ranjan%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20Software%20Engineer%20-%20Node.js%20-%20Golang%20-%20AWS&descAlignY=58&descSize=16" alt="Ranjan Kumar Senior Software Engineer Node.js Golang AWS" />
 </div>
+
+<h1 align="center">Ranjan Kumar (ranjankumarrk)</h1>
+<p align="center"><strong>Senior Software Engineer</strong> · Node.js · Golang · NestJS · AWS · Hyderabad</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=740&lines=Hi+%F0%9F%91%8B+I'm+Ranjan+Kumar;Senior+Software+Engineer+%40+EWNS;Building+fintech+systems+at+150K%2B+users;Node.js+%7C+Golang+%7C+NestJS+%7C+AWS" alt="Typing intro" />
@@ -30,7 +33,9 @@
 
 ## About me
 
-Backend engineer with **4.5+ years** building scalable SaaS and fintech platforms. I currently lead architecture and delivery of financial microservices at **EWNS Web Services**, serving **150K+ users** and **2M+ monthly transactions**.
+**Ranjan Kumar** (`ranjankumarrk` on [GitHub](https://github.com/ranjankumarrk), [LinkedIn](https://www.linkedin.com/in/ranjankumarrk/), and [LeetCode](https://leetcode.com/u/ranjankumarrk/)) is a Senior Software Engineer at **EWNS Web Services** in Hyderabad. I build scalable SaaS and fintech platforms — Node.js, NestJS, Golang, and AWS — serving **150K+ users** and **5M+ monthly transactions**.
+
+Portfolio: [https://ranjankumarrk.github.io](https://ranjankumarrk.github.io/)
 
 I care as much about production reliability as I do about shipping features — incident response, root-cause analysis, observability, and mentoring are part of the job.
 
@@ -49,7 +54,7 @@ I care as much about production reliability as I do about shipping features — 
 
 | Users | Throughput | Latency | Reliability |
 | :---: | :---: | :---: | :---: |
-| **150K+** daily active | **2M+** txns / month | **40%** faster APIs (1s → 200ms) | **60%** lower MTTR |
+| **150K+** daily active | **5M+** txns / month | **40%** faster APIs (1s → 200ms) | **60%** lower MTTR |
 | Scaled 10K → 150K | 99.99% success rate | Redis + Postgres + Mongo | OpenTelemetry + CloudWatch |
 
 </div>
@@ -97,7 +102,7 @@ I care as much about production reliability as I do about shipping features — 
 
 - Built KYC/AML onboarding for **150K+ users** with Plaid IDV, Atelio-Bond, and Persona — biometric liveness + watchlist screening at **98% accuracy**. Verification time: **3 days → 15 minutes**.
 - Integrated Plaid/Bond banking data (3–6 months) to compute **Cashflow Scores** for instant advances — approvals **48 hrs → 30 mins**.
-- Designed workers for **2M+ monthly transactions** (disbursements, repayments, card auths) on a double-entry ledger.
+- Designed workers for **5M+ monthly transactions** (disbursements, repayments, card auths) on a double-entry ledger.
 - JWT + RBAC across custom roles; Jest unit/integration tests at **85% coverage**.
 
 ### Sutara IT Solutions · Kolkata
