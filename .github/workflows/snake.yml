@@ -12,13 +12,24 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: generate-snake
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake SVGs
+        uses: Platane/snk/svg-only@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -26,11 +37,33 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publish SVGs to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          user_name: github-actions[bot]
-          user_email: github-actions[bot]@users.noreply.github.com
-          commit_message: "chore: refresh contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          sudo chown -R "$(whoami)" dist || true
+          mkdir -p /tmp/snake-out
+          cp dist/github-contribution-grid-snake.svg /tmp/snake-out/
+          cp dist/github-contribution-grid-snake-dark.svg /tmp/snake-out/
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git fetch origin output && git rev-parse --verify origin/output >/dev/null 2>&1; then
+            git checkout -f -B output origin/output
+          else
+            git checkout --orphan output
+            git rm -rf . --quiet || true
+          fi
+
+          cp /tmp/snake-out/github-contribution-grid-snake.svg .
+          cp /tmp/snake-out/github-contribution-grid-snake-dark.svg .
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
+
+          if git diff --cached --quiet; then
+            echo "No SVG changes; skipping commit"
+          else
+            git commit -m "chore: refresh contribution snake"
+            git push origin HEAD:output
+          fi
