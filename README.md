@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=0:0D1117,50:1F6FEB,100:238636&height=180&section=header&text=Ranjan%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20Software%20Engineer%20·%20Node.js%20·%20Golang%20·%20AWS&descAlignY=58&descSize=16" alt="Ranjan Kumar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:238636&height=180&section=header&text=Ranjan%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20Software%20Engineer%20-%20Node.js%20-%20Golang%20-%20AWS&descAlignY=58&descSize=16" alt="Ranjan Kumar" />
 </div>
 
 <div align="center">
@@ -220,5 +220,5 @@ I care as much about production reliability as I do about shipping features — 
     <a href="mailto:ranjankumar90482@gmail.com">Email</a>
   </p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev quote" />
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=0:238636,50:1F6FEB,100:0D1117&height=100&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:1F6FEB,100:0D1117&height=100&section=footer" alt="" />
 </div>
