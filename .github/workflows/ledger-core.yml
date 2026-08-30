@@ -1,0 +1,26 @@
+name: ledger-core
+
+on:
+  push:
+    paths:
+      - "ledger-core/**"
+      - ".github/workflows/ledger-core.yml"
+  pull_request:
+    paths:
+      - "ledger-core/**"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ledger-core
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: ledger-core/package-lock.json
+      - run: npm ci
+      - run: npm test

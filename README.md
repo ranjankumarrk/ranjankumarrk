@@ -133,7 +133,7 @@ I care as much about production reliability as I do about shipping features — 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ranjankumarrk/ledger-core">ledger-core</a></h3>
+      <h3><a href="https://github.com/ranjankumarrk/ranjankumarrk/tree/main/ledger-core">ledger-core</a></h3>
       <p>Public TypeScript double-entry + idempotency keys — the same two invariants as production disbursements. Tests + CI.</p>
     </td>
     <td width="50%" valign="top">
