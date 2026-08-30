@@ -123,42 +123,22 @@ I care as much about production reliability as I do about shipping features — 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>FinTech payment platform · EWNS</h3>
-      <p>Event-driven microservices for onboarding, KYC/AML, cashflow scoring, ledgers, and statement generation at 150K+ users.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-        <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-      </p>
+      <h3><a href="https://ranjankumarrk.github.io/case-studies/latency.html">40% API latency cut</a></h3>
+      <p>1s → 200ms p95 for 150K+ DAU. Redis, Postgres indexes, Mongo aggregations, ECS blue-green. Public architecture notes from production fintech.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://ranjankumarrk.github.io">Personal portfolio</a></h3>
-      <p>Portfolio with blog-ready MDX setup, SSR/SSG, and CI/CD. Live on GitHub Pages.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-      </p>
+      <h3><a href="https://ranjankumarrk.github.io/case-studies/kyc.html">KYC/AML in 15 minutes</a></h3>
+      <p>Plaid, Persona, Bond, OWS/OEDQ. Verification 3 days → 15 minutes at 98% auto-decision. 150K+ users.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Library Management System</h3>
-      <p>Full-stack app for 1000+ books, 500+ students, 50+ staff. RBAC (Admin / Librarian / Student). 12+ relational tables; search 3s → 200ms. 1st prize, LNCT TechFest 2021.</p>
-      <p>
-        <img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MERN" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-      </p>
+      <h3><a href="https://github.com/ranjankumarrk/ledger-core">ledger-core</a></h3>
+      <p>Public TypeScript double-entry + idempotency keys — the same two invariants as production disbursements. Tests + CI.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://mithila-treats-tool.vercel.app">Mithila Treats calculator</a></h3>
-      <p>Production-cost tool for ingredient ratios, pricing, and batch planning. Shipped on Vercel.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-      </p>
+      <h3><a href="https://ranjankumarrk.github.io/resume.html">ATS resume</a></h3>
+      <p>One-page US/SG application resume. Print to PDF. Portfolio: <a href="https://ranjankumarrk.github.io">ranjankumarrk.github.io</a></p>
     </td>
   </tr>
 </table>
