@@ -8,10 +8,10 @@
 </div>
 
 <h1 align="center">Ranjan Kumar (ranjankumarrk)</h1>
-<p align="center"><strong>Senior Software Engineer</strong> · Node.js · Golang · NestJS · AWS · Hyderabad</p>
+<p align="center"><strong>Senior Software Engineer</strong> · Node.js · Golang · NestJS · AWS · Open to Remote (US · Singapore · India)</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=740&lines=Hi+%F0%9F%91%8B+I'm+Ranjan+Kumar;Senior+Software+Engineer+%40+EWNS;Building+fintech+systems+at+150K%2B+users;Node.js+%7C+Golang+%7C+NestJS+%7C+AWS" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B+I'm+Ranjan+Kumar;Senior+Software+Engineer+%40+EWNS;Open+to+Remote+%7C+USA+%7C+Singapore+%7C+India;Node.js+%7C+Golang+%7C+NestJS+%7C+AWS" alt="Typing intro" />
 </div>
 
 <br/>
@@ -24,8 +24,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjankumar90482@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=ranjankumarrk&label=Profile%20views&color=1F6FEB&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/badge/Open%20to-Senior%20Backend%20roles-238636?style=flat-square" alt="Open to work" />
-<img src="https://img.shields.io/badge/Location-Hyderabad%20·%20Remote-0D1117?style=flat-square" alt="Location" />
+<img src="https://img.shields.io/badge/Open%20to-Remote%20Senior%20Backend-238636?style=flat-square" alt="Open to remote work" />
+<img src="https://img.shields.io/badge/Locations-USA%20·%20Singapore%20·%20India-1F6FEB?style=flat-square" alt="Target locations" />
+<img src="https://img.shields.io/badge/Based-Hyderabad%20India-0D1117?style=flat-square" alt="Current location" />
 
 </div>
 
@@ -33,14 +34,17 @@
 
 ## About me
 
-**Ranjan Kumar** (`ranjankumarrk` on [GitHub](https://github.com/ranjankumarrk), [LinkedIn](https://www.linkedin.com/in/ranjankumarrk/), and [LeetCode](https://leetcode.com/u/ranjankumarrk/)) is a Senior Software Engineer at **EWNS Web Services** in Hyderabad. I build scalable SaaS and fintech platforms — Node.js, NestJS, Golang, and AWS — serving **150K+ users** and **5M+ monthly transactions**.
+**Ranjan Kumar** (`ranjankumarrk` on [GitHub](https://github.com/ranjankumarrk), [LinkedIn](https://www.linkedin.com/in/ranjankumarrk/), and [LeetCode](https://leetcode.com/u/ranjankumarrk/)) is a Senior Software Engineer / Senior Backend Engineer at **EWNS Web Services** (Hyderabad). I build scalable SaaS and fintech platforms — Node.js, NestJS, TypeScript, Golang, and AWS — serving **150K+ users** and **5M+ monthly transactions**.
+
+**Open to remote Senior Backend / Senior Software Engineer roles** in the **United States**, **Singapore**, **India**, and other international teams (timezone-overlap friendly).
 
 Portfolio: [https://ranjankumarrk.github.io](https://ranjankumarrk.github.io/)
 
 I care as much about production reliability as I do about shipping features — incident response, root-cause analysis, observability, and mentoring are part of the job.
 
 - **Now:** Senior Software Engineer @ EWNS (FinTech)
-- **Focus:** Node.js / NestJS, Golang, AWS, event-driven systems
+- **Seeking:** Remote senior backend roles (US · Singapore · India · worldwide)
+- **Focus:** Node.js / NestJS, Golang, AWS, event-driven microservices
 - **Strengths:** latency work, KYC/AML pipelines, ledgers, Redis + PostgreSQL tuning
 - **Education:** B.Tech, LNCT Bhopal · GATE 2022 CSE AIR 1800
 
@@ -209,7 +213,7 @@ I care as much about production reliability as I do about shipping features — 
 ```text
 🔭  AWS ECS, observability, and financial microservice reliability
 🌱  Deepening Golang, Kubernetes, and system design
-👯  Open to collaborating on Node.js / Go backend and open source
+🌍  Open to remote Senior Backend roles — USA, Singapore, India, worldwide
 💬  Ask me about NestJS, KYC/AML, Redis, Postgres, and production incidents
 ⚡  GATE CSE AIR 1800 while coming from a Civil Engineering background
 ```
