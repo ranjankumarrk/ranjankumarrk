@@ -4,14 +4,14 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:238636&height=180&section=header&text=Ranjan%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20Software%20Engineer%20-%20Node.js%20-%20Golang%20-%20AWS&descAlignY=58&descSize=16" alt="Ranjan Kumar Senior Software Engineer Node.js Golang AWS" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:238636&height=180&section=header&text=Ranjan%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20Backend%20-%20NestJS%20-%20TypeScript%20-%20AWS%20payments&descAlignY=58&descSize=16" alt="Ranjan Kumar ranjankumarrk Senior Software Engineer NestJS TypeScript AWS" />
 </div>
 
 <h1 align="center">Ranjan Kumar (ranjankumarrk)</h1>
-<p align="center"><strong>Senior Software Engineer</strong> · Node.js · Golang · NestJS · AWS · Open to Remote (US · Singapore · India)</p>
+<p align="center"><strong>Senior Software Engineer</strong> · NestJS · TypeScript · AWS · Fintech payments · Open to Remote</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B+I'm+Ranjan+Kumar;Senior+Software+Engineer+%40+EWNS;Open+to+Remote+%7C+USA+%7C+Singapore+%7C+India;Node.js+%7C+Golang+%7C+NestJS+%7C+AWS" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=Ranjan+Kumar+%7C+ranjankumarrk;Senior+Backend+%7C+NestJS+%7C+TypeScript+%7C+AWS;Fintech+payments+%7C+ledgers+%7C+KYC;Embed+across+services+%7C+ship+end-to-end" alt="Ranjan Kumar ranjankumarrk typing intro" />
 </div>
 
 <br/>
@@ -34,21 +34,19 @@
 
 ## About me
 
-**Ranjan Kumar** (`ranjankumarrk` on [GitHub](https://github.com/ranjankumarrk), [LinkedIn](https://www.linkedin.com/in/ranjankumarrk/), and [LeetCode](https://leetcode.com/u/ranjankumarrk/)) is a Senior Software Engineer / Senior Backend Engineer at **EWNS Web Services** (Hyderabad). I build scalable SaaS and fintech platforms — Node.js, NestJS, TypeScript, Golang, and AWS — serving **150K+ users** and **5M+ monthly transactions**.
+**Ranjan Kumar** (`ranjankumarrk`) — [GitHub](https://github.com/ranjankumarrk) · [LinkedIn](https://www.linkedin.com/in/ranjankumarrk/) · [Official site](https://ranjankumarrk.github.io/) · [Who is Ranjan Kumar](https://ranjankumarrk.github.io/who.html) · [LeetCode](https://leetcode.com/u/ranjankumarrk/)
 
-**Open to remote Senior Backend / Senior Software Engineer roles** in the **United States**, **Singapore**, **India**, and other international teams (timezone-overlap friendly).
+Senior Software Engineer at **EWNS Web Services**. I build **Node.js / TypeScript / NestJS** backends on **AWS** for fintech: APIs, async jobs, and the controls that let money move safely (KYC/AML, ledgers, card authorizations). **150K+ users**, **5M+ monthly transactions**.
 
-Portfolio: [https://ranjankumarrk.github.io](https://ranjankumarrk.github.io/)
+I do not sit on one service. I drop into whichever payment flow needs to ship — onboarding, verification, ledger, statements — get productive in a codebase I did not start, and take the feature **from design to production** with the team that owns it.
 
-I care as much about production reliability as I do about shipping features — incident response, root-cause analysis, observability, and mentoring are part of the job.
+- **Now:** Senior Software Engineer @ EWNS (fintech payments)
+- **How I work:** embed across services, ship end-to-end, operate what I build (CloudWatch, OpenTelemetry)
+- **Stack:** NestJS, TypeScript, AWS (Lambda, SQS, S3, ECS, CloudWatch), PostgreSQL, Redis, GitHub Actions
+- **Payments:** KYC/AML verification, double-entry ledger, card auths, idempotent SQS consumers
+- **Seeking:** Remote Senior Backend (US · Singapore · India · worldwide) — overlap 8am–12pm ET
 
-- **Now:** Senior Software Engineer @ EWNS (FinTech)
-- **Seeking:** Remote senior backend roles (US · Singapore · India · worldwide)
-- **Focus:** Node.js / NestJS, Golang, AWS, event-driven microservices
-- **Strengths:** latency work, KYC/AML pipelines, ledgers, Redis + PostgreSQL tuning
-- **Education:** B.Tech, LNCT Bhopal · GATE 2022 CSE AIR 1800
-
-> Building high-scale fintech infrastructure with a product mindset — I don't just write code, I solve business problems.
+> I design the flow, build it where it needs to live, and run it in production — with the host team, not around them.
 
 ---
 
@@ -90,17 +88,18 @@ I care as much about production reliability as I do about shipping features — 
 
 **Senior Software Engineer** · Jan 2026 – Present
 
-- Lead architecture and end-to-end delivery of business-critical financial microservices — scalability, reliability, maintainability.
-- Mentor engineers through design reviews, debugging, and engineering practices to raise velocity and code quality.
-- Own production: incident response, RCA, observability, and performance work that cuts MTTR and improves reliability.
+- Embed across financial microservices: take a capability from idea to production without waiting for a perfect spec — design the flow, build it in the service that owns the data, operate it.
+- Own production for the rails I ship: incident response, RCA, OpenTelemetry, CloudWatch, and the reliability work that cut platform MTTR **60%**.
+- Mentor the host team's engineers in-place (design reviews, debugging) so the change stays theirs after I move to the next flow.
+- Use AI-assisted development and review to get productive fast in unfamiliar NestJS/TypeScript services.
 
 **Software Development Engineer II** · Jan 2024 – Jan 2026
 
-- Architected **12+ microservices** with circuit breakers, retries, and async event processing for high-traffic financial ops.
-- Cut API latency **40%** (1s → 200ms) for **150K+ DAU** via Redis caching, PostgreSQL indexing, MongoDB compound indexes / aggregations, and blue-green deploys on **AWS ECS**.
-- Built CRON statement generation for **150K+ financial documents / month** with Node.js workers, BullMQ, Redis, AWS S3 & SES (also Go goroutines & channels).
-- Applied **OWS** and **OEDQ** for AML watchlist screening, data profiling, cleansing, and de-duplication.
-- Added OpenTelemetry tracing + CloudWatch monitoring; AI-assisted review workflows; **60% MTTR reduction**.
+- Dropped into **12+** payment and ops services I did not originally write — circuit breakers, retries, and **AWS SQS + BullMQ** async jobs so money movement stays correct under redelivery.
+- Cut API latency **40%** (1s → 200ms) for **150K+ DAU** (Redis, PostgreSQL, MongoDB, blue-green on **AWS ECS**).
+- Statement generation for **150K+ documents/month**: NestJS/Node workers, BullMQ, Redis, **AWS S3** and **SES**.
+- **5M+ monthly transactions** with idempotent consumers and dead-letter retries — the same invariants as card auths and disbursements.
+- AML controls: Oracle **OWS / OEDQ** screening, cleansing, de-duplication (verification before funds move).
 
 **Software Development Engineer I** · Jan 2023 – Jan 2024
 
@@ -137,8 +136,8 @@ I care as much about production reliability as I do about shipping features — 
       <p>Public TypeScript double-entry + idempotency keys — the same two invariants as production disbursements. Tests + CI.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://ranjankumarrk.github.io/resume.html">ATS resume</a></h3>
-      <p>One-page US/SG application resume. Print to PDF. Portfolio: <a href="https://ranjankumarrk.github.io">ranjankumarrk.github.io</a></p>
+      <h3><a href="https://ranjankumarrk.github.io/ranjankumar.html">Resumes (HTML + PDF)</a></h3>
+      <p>Node.js · Golang · .NET. Official site of Ranjan Kumar (ranjankumarrk): <a href="https://ranjankumarrk.github.io">ranjankumarrk.github.io</a></p>
     </td>
   </tr>
 </table>
