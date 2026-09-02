@@ -20,6 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjankumarrk/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://ranjankumarrk.github.io)
+[![RemoteMore](https://img.shields.io/badge/RemoteMore-0A66C2?style=for-the-badge)](https://ranjankumarrk.github.io/remotemore.html)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ranjankumarrk/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjankumar90482@gmail.com)
 
@@ -34,7 +35,7 @@
 
 ## About me
 
-**Ranjan Kumar** (`ranjankumarrk`) — [GitHub](https://github.com/ranjankumarrk) · [LinkedIn](https://www.linkedin.com/in/ranjankumarrk/) · [Official site](https://ranjankumarrk.github.io/) · [Who is Ranjan Kumar](https://ranjankumarrk.github.io/who.html) · [LeetCode](https://leetcode.com/u/ranjankumarrk/)
+**Ranjan Kumar** (`ranjankumarrk`) — [GitHub](https://github.com/ranjankumarrk) · [LinkedIn](https://www.linkedin.com/in/ranjankumarrk/) · [Official site](https://ranjankumarrk.github.io/) · [RemoteMore](https://ranjankumarrk.github.io/remotemore.html) · [Who is Ranjan Kumar](https://ranjankumarrk.github.io/who.html) · [LeetCode](https://leetcode.com/u/ranjankumarrk/)
 
 Senior Software Engineer at **EWNS Web Services**. I build **Node.js / TypeScript / NestJS** backends on **AWS** for fintech: APIs, async jobs, and the controls that let money move safely (KYC/AML, ledgers, card authorizations). **150K+ users**, **5M+ monthly transactions**.
 
@@ -205,6 +206,7 @@ I do not sit on one service. I drop into whichever payment flow needs to ship �
     <a href="https://www.linkedin.com/in/ranjankumarrk/">LinkedIn</a> ·
     <a href="https://github.com/ranjankumarrk">GitHub</a> ·
     <a href="https://ranjankumarrk.github.io">Portfolio</a> ·
+    <a href="https://ranjankumarrk.github.io/remotemore.html">RemoteMore</a> ·
     <a href="mailto:ranjankumar90482@gmail.com">Email</a>
   </p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev quote" />
