@@ -19,9 +19,10 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjankumarrk/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://ranjankumarrk.github.io)
-[![RemoteMore](https://img.shields.io/badge/RemoteMore-0A66C2?style=for-the-badge)](https://ranjankumarrk.github.io/remotemore.html)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjankumarrk)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ranjankumarrk/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://ranjankumarrk.github.io)
+[![RemoteMore](https://img.shields.io/badge/RemoteMore-0A66C2?style=for-the-badge)](https://ranjankumarrk.github.io/remotemore.html)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjankumar90482@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=ranjankumarrk&label=Profile%20views&color=1F6FEB&style=flat-square" alt="Profile views" />
@@ -205,6 +206,7 @@ I do not sit on one service. I drop into whichever payment flow needs to ship 鈥
   <p>
     <a href="https://www.linkedin.com/in/ranjankumarrk/">LinkedIn</a> 路
     <a href="https://github.com/ranjankumarrk">GitHub</a> 路
+    <a href="https://leetcode.com/u/ranjankumarrk/">LeetCode</a> 路
     <a href="https://ranjankumarrk.github.io">Portfolio</a> 路
     <a href="https://ranjankumarrk.github.io/remotemore.html">RemoteMore</a> 路
     <a href="mailto:ranjankumar90482@gmail.com">Email</a>

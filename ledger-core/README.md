@@ -63,4 +63,6 @@ Open to remote roles in the USA, Singapore, India, and worldwide.
 
 - Portfolio: https://ranjankumarrk.github.io
 - LinkedIn: https://www.linkedin.com/in/ranjankumarrk/
+- GitHub: https://github.com/ranjankumarrk
+- LeetCode: https://leetcode.com/u/ranjankumarrk/
 - Resume: https://ranjankumarrk.github.io/resume.html
