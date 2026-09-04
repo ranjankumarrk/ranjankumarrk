@@ -37,7 +37,7 @@
 
 ## About me
 
-**Ranjan Kumar** (`ranjankumarrk`) — [GitHub](https://github.com/ranjankumarrk) · [LinkedIn](https://www.linkedin.com/in/ranjankumarrk/) · [Official site](https://ranjankumarrk.github.io/) · [RemoteMore](https://ranjankumarrk.github.io/remotemore.html) · [Who is Ranjan Kumar](https://ranjankumarrk.github.io/who.html) · [LeetCode](https://leetcode.com/u/ranjankumarrk/)
+**Ranjan Kumar** (`ranjankumarrk`) — [GitHub](https://github.com/ranjankumarrk) · [LinkedIn](https://www.linkedin.com/in/ranjankumarrk/) · [Official site](https://ranjankumarrk.github.io/) · [Node.js developer](https://ranjankumarrk.github.io/nodejs-developer.html) · [NestJS developer](https://ranjankumarrk.github.io/nestjs-developer.html) · [Golang developer](https://ranjankumarrk.github.io/golang-developer.html) · [RemoteMore](https://ranjankumarrk.github.io/remotemore.html) · [Who is Ranjan Kumar](https://ranjankumarrk.github.io/who.html) · [LeetCode](https://leetcode.com/u/ranjankumarrk/)
 
 Senior Software Engineer at **EWNS Web Services**. **5+ years** building **Node.js / TypeScript / NestJS** backends on **AWS** for fintech: APIs, async jobs, and the controls that let money move safely (KYC/AML, ledgers, card authorizations). **150K+ users**, **5M+ monthly transactions**.
 
