@@ -58,7 +58,7 @@ Architecture write-ups (no proprietary code):
 
 ## Author
 
-**Ranjan Kumar** (`ranjankumarrk`) · Senior Software Engineer · Node.js / NestJS / Golang / AWS  
+**Ranjan Kumar** (`ranjankumarrk`) · Senior Software Engineer · 5+ years · Node.js / NestJS / Golang / AWS  
 Open to remote roles in the USA, Singapore, India, and worldwide.
 
 - Portfolio: https://ranjankumarrk.github.io

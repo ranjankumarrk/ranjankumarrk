@@ -26,6 +26,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjankumar90482@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=ranjankumarrk&label=Profile%20views&color=1F6FEB&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/Experience-5%2B%20years-238636?style=flat-square" alt="5+ years experience" />
 <img src="https://img.shields.io/badge/Open%20to-Remote%20Senior%20Backend-238636?style=flat-square" alt="Open to remote work" />
 <img src="https://img.shields.io/badge/Locations-USA%20·%20Singapore%20·%20India-1F6FEB?style=flat-square" alt="Target locations" />
 <img src="https://img.shields.io/badge/Based-Hyderabad%20India-0D1117?style=flat-square" alt="Current location" />
@@ -38,7 +39,7 @@
 
 **Ranjan Kumar** (`ranjankumarrk`) — [GitHub](https://github.com/ranjankumarrk) · [LinkedIn](https://www.linkedin.com/in/ranjankumarrk/) · [Official site](https://ranjankumarrk.github.io/) · [RemoteMore](https://ranjankumarrk.github.io/remotemore.html) · [Who is Ranjan Kumar](https://ranjankumarrk.github.io/who.html) · [LeetCode](https://leetcode.com/u/ranjankumarrk/)
 
-Senior Software Engineer at **EWNS Web Services**. I build **Node.js / TypeScript / NestJS** backends on **AWS** for fintech: APIs, async jobs, and the controls that let money move safely (KYC/AML, ledgers, card authorizations). **150K+ users**, **5M+ monthly transactions**.
+Senior Software Engineer at **EWNS Web Services**. **5+ years** building **Node.js / TypeScript / NestJS** backends on **AWS** for fintech: APIs, async jobs, and the controls that let money move safely (KYC/AML, ledgers, card authorizations). **150K+ users**, **5M+ monthly transactions**.
 
 I do not sit on one service. I drop into whichever payment flow needs to ship — onboarding, verification, ledger, statements — get productive in a codebase I did not start, and take the feature **from design to production** with the team that owns it.
 
