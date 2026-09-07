@@ -159,7 +159,7 @@ I do not sit on one service. I drop into whichever payment flow needs to ship â€
 
 <div align="center">
   <a href="https://leetcode.com/u/ranjankumarrk/">
-    <img src="https://leetcard.jacoblin.cool/ranjankumarrk?theme=dark&font=jetbrains_mono&ext=heatmap&cache=0&v=2026-09-08" alt="LeetCode stats" />
+    <img src="https://leetcard.jacoblin.cool/ranjankumarrk?theme=dark&font=jetbrains_mono&ext=heatmap&cache=0&v=2026-09-07" alt="LeetCode stats" />
   </a>
 </div>
 
@@ -168,12 +168,12 @@ I do not sit on one service. I drop into whichever payment flow needs to ship â€
 ## GitHub analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ranjankumarrk&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800&v=2026-09-08" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ranjankumarrk&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6&cache_seconds=1800&v=2026-09-08" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ranjankumarrk&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800&v=2026-09-07" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ranjankumarrk&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6&cache_seconds=1800&v=2026-09-07" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ranjankumarrk&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&v=2026-09-08" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=ranjankumarrk&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&v=2026-09-07" alt="GitHub streak" />
 </div>
 
 <p align="center"><sub>LeetCode and GitHub cards refresh daily from GitHub Actions.</sub></p>
@@ -184,9 +184,9 @@ I do not sit on one service. I drop into whichever payment flow needs to ship â€
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranjankumarrk/ranjankumarrk/output/github-contribution-grid-snake-dark.svg?v=2026-09-08" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranjankumarrk/ranjankumarrk/output/github-contribution-grid-snake.svg?v=2026-09-08" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ranjankumarrk/ranjankumarrk/output/github-contribution-grid-snake-dark.svg?v=2026-09-08" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranjankumarrk/ranjankumarrk/output/github-contribution-grid-snake-dark.svg?v=2026-09-07" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranjankumarrk/ranjankumarrk/output/github-contribution-grid-snake.svg?v=2026-09-07" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ranjankumarrk/ranjankumarrk/output/github-contribution-grid-snake-dark.svg?v=2026-09-07" />
   </picture>
 </div>
 
