@@ -1,32 +1,33 @@
-name: Generate Snake Animation
+name: Refresh profile stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "30 0 * * *"
   workflow_dispatch:
   push:
     branches: [main]
     paths:
-      - ".github/workflows/snake.yml"
+      - ".github/workflows/refresh-profile.yml"
+      - ".github/scripts/refresh_stats.py"
 
 permissions:
   contents: write
 
 concurrency:
-  group: generate-snake
-  cancel-in-progress: true
+  group: refresh-profile
+  cancel-in-progress: false
 
 jobs:
-  generate:
+  refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    permissions:
-      contents: write
+    timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Generate contribution snake SVGs
+      - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -36,12 +37,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish SVGs to output branch
+      - name: Publish snake SVGs to output branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
-
           sudo chown -R "$(whoami)" dist || true
           mkdir -p /tmp/snake-out
           cp dist/github-contribution-grid-snake.svg /tmp/snake-out/
@@ -62,8 +62,24 @@ jobs:
           git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
 
           if git diff --cached --quiet; then
-            echo "No SVG changes; skipping commit"
+            echo "No snake SVG changes; skipping output commit"
           else
             git commit -m "chore: refresh contribution snake"
             git push origin HEAD:output
+          fi
+
+          git checkout -f main
+
+      - name: Bust GitHub image cache in README
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python3 .github/scripts/refresh_stats.py README.md
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "README cache-bust date already current"
+          else
+            git commit -m "chore: refresh profile card cache"
+            git push origin HEAD:main
           fi
