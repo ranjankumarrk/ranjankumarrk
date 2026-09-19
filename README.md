@@ -37,7 +37,9 @@
 
 ## About me
 
-**Ranjan Kumar** (`ranjankumarrk`) — [GitHub](https://github.com/ranjankumarrk) · [LinkedIn](https://www.linkedin.com/in/ranjankumarrk/) · [Official site](https://ranjankumarrk.github.io/) · [Node.js](https://ranjankumarrk.github.io/nodejs-developer.html) · [NestJS](https://ranjankumarrk.github.io/nestjs-developer.html) · [Golang](https://ranjankumarrk.github.io/golang-developer.html) · [JavaScript](https://ranjankumarrk.github.io/javascript-developer.html) · [Backend](https://ranjankumarrk.github.io/backend-developer.html) · [Fullstack](https://ranjankumarrk.github.io/fullstack-developer.html) · [RemoteMore](https://ranjankumarrk.github.io/remotemore.html) · [LeetCode](https://leetcode.com/u/ranjankumarrk/)
+**Ranjan Kumar** (`ranjankumarrk`) — [GitHub](https://github.com/ranjankumarrk) · [LinkedIn](https://www.linkedin.com/in/ranjankumarrk/) · [Official site](https://ranjankumarrk.github.io/) · [Node.js](https://ranjankumarrk.github.io/nodejs-developer.html) · [NestJS](https://ranjankumarrk.github.io/nestjs-developer.html) · [Golang](https://ranjankumarrk.github.io/golang-developer.html) · [MERN](https://ranjankumarrk.github.io/mern-developer.html) · [JavaScript](https://ranjankumarrk.github.io/javascript-developer.html) · [Backend](https://ranjankumarrk.github.io/backend-developer.html) · [Fullstack](https://ranjankumarrk.github.io/fullstack-developer.html) · [RemoteMore](https://ranjankumarrk.github.io/remotemore.html) · [LeetCode](https://leetcode.com/u/ranjankumarrk/)
+
+Also searchable as **ranjan kumar**, **RANJAN KUMAR**, **Ranjan Kumar RK**, **Ranjan Kumar NestJS**, **Ranjan Kumar Nodejs**, **Ranjan Kumar Golang**, **Ranjan Kumar MERN**.
 
 Senior Software Engineer at **EWNS Web Services**. **5+ years** building **Node.js / TypeScript / NestJS** backends on **AWS** for fintech: APIs, async jobs, and the controls that let money move safely (KYC/AML, ledgers, card authorizations). **150K+ users**, **5M+ monthly transactions**.
 
