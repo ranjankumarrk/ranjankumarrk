@@ -1,17 +1,17 @@
 <!--
   GitHub Profile README · ranjankumarrk
-  Last updated: August 2026
+  Last updated: October 2026
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:238636&height=180&section=header&text=Ranjan%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20Backend%20-%20NestJS%20-%20TypeScript%20-%20AWS%20payments&descAlignY=58&descSize=16" alt="Ranjan Kumar ranjankumarrk Senior Software Engineer NestJS TypeScript AWS" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:238636&height=180&section=header&text=Ranjan%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Node.js%20-%20NestJS%20-%20Golang%20-%20AWS%20cloud-native%20-%20fintech&descAlignY=58&descSize=16" alt="Ranjan Kumar ranjankumarrk Senior Software Engineer Node.js NestJS Golang AWS cloud-native" />
 </div>
 
 <h1 align="center">Ranjan Kumar (ranjankumarrk)</h1>
-<p align="center"><strong>Senior Software Engineer</strong> · NestJS · TypeScript · AWS · Fintech payments · Open to Remote</p>
+<p align="center"><strong>Senior Software Engineer</strong> · Node.js · NestJS · Golang · AWS cloud-native · MERN · Fintech payments · Open to Remote</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=Ranjan+Kumar+%7C+ranjankumarrk;Senior+Backend+%7C+NestJS+%7C+TypeScript+%7C+AWS;Fintech+payments+%7C+ledgers+%7C+KYC;Embed+across+services+%7C+ship+end-to-end" alt="Ranjan Kumar ranjankumarrk typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=Ranjan+Kumar+%7C+ranjankumarrk;Node.js+%7C+NestJS+%7C+Golang+%7C+AWS+cloud-native;Fintech+payments+%7C+ledgers+%7C+KYC;Embed+across+services+%7C+ship+end-to-end" alt="Ranjan Kumar ranjankumarrk typing intro" />
 </div>
 
 <br/>
@@ -37,17 +37,17 @@
 
 ## About me
 
-**Ranjan Kumar** (`ranjankumarrk`) — [GitHub](https://github.com/ranjankumarrk) · [LinkedIn](https://www.linkedin.com/in/ranjankumarrk/) · [Official site](https://ranjankumarrk.github.io/) · [Node.js](https://ranjankumarrk.github.io/nodejs-developer.html) · [NestJS](https://ranjankumarrk.github.io/nestjs-developer.html) · [Golang](https://ranjankumarrk.github.io/golang-developer.html) · [MERN](https://ranjankumarrk.github.io/mern-developer.html) · [JavaScript](https://ranjankumarrk.github.io/javascript-developer.html) · [Backend](https://ranjankumarrk.github.io/backend-developer.html) · [Fullstack](https://ranjankumarrk.github.io/fullstack-developer.html) · [RemoteMore](https://ranjankumarrk.github.io/remotemore.html) · [LeetCode](https://leetcode.com/u/ranjankumarrk/)
+**Ranjan Kumar** (`ranjankumarrk`) — [GitHub](https://github.com/ranjankumarrk) · [LinkedIn](https://www.linkedin.com/in/ranjankumarrk/) · [Official site](https://ranjankumarrk.github.io/) · [Node.js](https://ranjankumarrk.github.io/nodejs-developer.html) · [NestJS](https://ranjankumarrk.github.io/nestjs-developer.html) · [Golang](https://ranjankumarrk.github.io/golang-developer.html) · [AWS / cloud-native](https://ranjankumarrk.github.io/aws-cloud-developer.html) · [MERN](https://ranjankumarrk.github.io/mern-developer.html) · [JavaScript](https://ranjankumarrk.github.io/javascript-developer.html) · [Backend](https://ranjankumarrk.github.io/backend-developer.html) · [Fullstack](https://ranjankumarrk.github.io/fullstack-developer.html) · [RemoteMore](https://ranjankumarrk.github.io/remotemore.html) · [LeetCode](https://leetcode.com/u/ranjankumarrk/)
 
-Also searchable as **ranjan kumar**, **RANJAN KUMAR**, **Ranjan Kumar RK**, **Ranjan Kumar NestJS**, **Ranjan Kumar Nodejs**, **Ranjan Kumar Golang**, **Ranjan Kumar MERN**.
+Also searchable as **ranjan kumar**, **RANJAN KUMAR**, **Ranjan Kumar RK**, **Ranjan Kumar Nodejs** / **Nodejs Ranjan**, **Ranjan Kumar NestJS** / **NestJS Ranjan**, **Ranjan Kumar Golang** / **Golang Ranjan**, **Ranjan Kumar AWS**, **Ranjan Kumar cloud native**, **Ranjan Kumar MERN**.
 
-Senior Software Engineer at **EWNS Web Services**. **5+ years** building **Node.js / TypeScript / NestJS** backends on **AWS** for fintech: APIs, async jobs, and the controls that let money move safely (KYC/AML, ledgers, card authorizations). **150K+ users**, **5M+ monthly transactions**.
+Senior Software Engineer at **EWNS Web Services**. **5+ years** building **Node.js / TypeScript / NestJS** and **Golang** backends, cloud-native on **AWS**, for fintech: APIs, async jobs, and the controls that let money move safely (KYC/AML, ledgers, card authorizations). **150K+ users**, **5M+ monthly transactions**.
 
 I do not sit on one service. I drop into whichever payment flow needs to ship — onboarding, verification, ledger, statements — get productive in a codebase I did not start, and take the feature **from design to production** with the team that owns it.
 
 - **Now:** Senior Software Engineer @ EWNS (fintech payments)
 - **How I work:** embed across services, ship end-to-end, operate what I build (CloudWatch, OpenTelemetry)
-- **Stack:** NestJS, TypeScript, AWS (Lambda, SQS, S3, ECS, CloudWatch), PostgreSQL, Redis, GitHub Actions
+- **Stack:** Node.js, NestJS, TypeScript, Golang, AWS (Lambda, SQS, S3, ECS, CloudWatch), Docker, PostgreSQL, Redis, GitHub Actions
 - **Payments:** KYC/AML verification, double-entry ledger, card auths, idempotent SQS consumers
 - **Seeking:** Remote Senior Backend (US · Singapore · India · worldwide) — overlap 8am–12pm ET
 
@@ -209,7 +209,7 @@ I do not sit on one service. I drop into whichever payment flow needs to ship �
 <div align="center">
   <h3>Let's build something that holds up in production</h3>
   <p>
-    <a href="https://www.linkedin.com/in/ranjankumarrk/">LinkedIn</a> ·
+    <a href="https://www.linkedin.com/in/ranjankumarrk/">Ranjan Kumar on LinkedIn</a> ·
     <a href="https://github.com/ranjankumarrk">GitHub</a> ·
     <a href="https://leetcode.com/u/ranjankumarrk/">LeetCode</a> ·
     <a href="https://ranjankumarrk.github.io">Portfolio</a> ·
