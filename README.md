@@ -11,7 +11,7 @@
 <p align="center"><strong>Senior Software Engineer</strong> · Node.js · NestJS · Golang · AWS cloud-native · MERN · Fintech payments · Open to Remote</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=Ranjan+Kumar+%7C+ranjankumarrk;Node.js+%7C+NestJS+%7C+Golang+%7C+AWS+cloud-native;Fintech+payments+%7C+ledgers+%7C+KYC;Embed+across+services+%7C+ship+end-to-end" alt="Ranjan Kumar ranjankumarrk typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=Ranjan+Kumar+%7C+ranjankumarrk;Node.js+%7C+NestJS+%7C+Golang+%7C+AWS+cloud-native;MERN+stack+%7C+MongoDB+Express+React+Node.js;Fintech+payments+%7C+ledgers+%7C+KYC;Embed+across+services+%7C+ship+end-to-end" alt="Ranjan Kumar ranjankumarrk typing intro" />
 </div>
 
 <br/>
@@ -48,6 +48,7 @@ I do not sit on one service. I drop into whichever payment flow needs to ship �
 - **Now:** Senior Software Engineer @ EWNS (fintech payments)
 - **How I work:** embed across services, ship end-to-end, operate what I build (CloudWatch, OpenTelemetry)
 - **Stack:** Node.js, NestJS, TypeScript, Golang, AWS (Lambda, SQS, S3, ECS, CloudWatch), Docker, PostgreSQL, Redis, GitHub Actions
+- **MERN:** MongoDB (aggregations, compound indexes), Express, React / Next.js, Node.js — live app: [Mithila Treats calculator](https://mithila-treats-tool.vercel.app/) · [Ranjan Kumar MERN stack developer](https://ranjankumarrk.github.io/mern-developer.html)
 - **Payments:** KYC/AML verification, double-entry ledger, card auths, idempotent SQS consumers
 - **Seeking:** Remote Senior Backend (US · Singapore · India · worldwide) — overlap 8am–12pm ET
 
